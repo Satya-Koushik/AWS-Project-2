@@ -1,2 +1,2 @@
-# AWS-Project-2
-AWSProject-2-–-Publishing-Amazon-SNS-Messages-Privately
+# AWS-Project-3
+AWSProject-3-–-Publishing-Amazon-SNS-Messages-Privately
